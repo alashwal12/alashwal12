@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Abdulmajeed
 
 🎓 Final-year **Data Science** student based in **Malaysia**  
